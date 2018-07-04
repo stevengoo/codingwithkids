@@ -13,6 +13,8 @@ Follow these easy instructions to get programming!
 
 ## Here are Projects to inspire you!:
 
+### Come and visit my [AWESOME PAGE](https://scratch.mit.edu/users/stevenngo36/)
+
 Positive or Negative - https://scratch.mit.edu/projects/104518363/
 
 Number Line - https://scratch.mit.edu/projects/104518129
