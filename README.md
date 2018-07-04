@@ -3,7 +3,6 @@
 Projects made during my time at Coding with Kids! Teaching and inspiring kids K-12 programming by making games, tools, animations and other fun things!
 
 ## How to Get Started :poop:
-/play secret
 Follow these easy instructions to get programming!
 1. Create a free account at [Scratch](https://scratch.mit.edu/)
 2. Login into your Account!
