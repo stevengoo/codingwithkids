@@ -1,4 +1,19 @@
-# codingwithkids
+# codingwithkids inspired Projects
+
+Projects made during my time at Coding with Kids! Teaching and inspiring kids K-12 programming by making games, tools, animations and other fun things!
+
+## How to Get Started :poop:
+/play secret
+Follow these easy instructions to get programming!
+1. Create a free account at [Scratch](https://scratch.mit.edu/)
+2. Login into your Account!
+3. Press Create button on the top left corner of page.
+
+### How to Share your awesome projects!
+
+
+
+## Here are Projects to inspire you! :octocat:
 
 Positive or Negative - https://scratch.mit.edu/projects/104518363/
 
