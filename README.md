@@ -1,3 +1,5 @@
+<link rel="shortcut icon" href="images/scratch.ico">
+
 # codingwithkids inspired Projects
 
 Projects made during my time at Coding with Kids! Teaching and inspiring kids K-12 programming by making games, tools, animations and other fun things!
