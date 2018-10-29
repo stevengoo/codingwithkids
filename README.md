@@ -13,25 +13,18 @@ Follow these easy instructions to get programming!
 3. Press Create button on the top left corner of page.
 
 ## How to Share your awesome projects!
-
+1. Edit the project that you want to share.
+2. Click on "See project page" on upper right corner.
+3. Click on Share button on upper right corner.
 
 ## Here are Projects to inspire you!:
 
 ### Come and visit my [AWESOME PAGE](https://scratch.mit.edu/users/stevenngo36/)
 
-Positive or Negative - https://scratch.mit.edu/projects/104518363/
+#### Rock, Paper, Scissors in SPACE
 
-Number Line - https://scratch.mit.edu/projects/104518129
-
-Change x and y - https://scratch.mit.edu/projects/104519328/
-
-Click the Cats - https://scratch.mit.edu/projects/170013593/
-
-Finding Friends - https://scratch.mit.edu/projects/170011624/
-
-Collecting Balloons - https://scratch.mit.edu/projects/127259909/
-
-Connect the Dots - https://scratch.mit.edu/projects/105938414
-
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/245497975/?autostart=false" frameborder="0" allowfullscreen></iframe>
+    
+#### Banana Chompers
 <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/203036842/?autostart=false" frameborder="0" allowfullscreen></iframe>
     
