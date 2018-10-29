@@ -21,10 +21,10 @@ Follow these easy instructions to get programming!
 
 ### Come and visit my [AWESOME PAGE](https://scratch.mit.edu/users/stevenngo36/)
 
-#### Rock, Paper, Scissors in SPACE
+#### [Rock, Paper, Scissors in SPACE](https://scratch.mit.edu/projects/245497975/)
 
-<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/245497975/?autostart=false" frameborder="0" allowfullscreen></iframe>
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/245497975/?autostart=false" frameborder="0" allowfullscreen="true"></iframe>
     
-#### Banana Chompers
+#### [Banana Chompers](https://scratch.mit.edu/projects/203036842/)
 <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/203036842/?autostart=false" frameborder="0" allowfullscreen></iframe>
     
